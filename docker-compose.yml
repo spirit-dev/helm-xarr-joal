@@ -1,0 +1,19 @@
+version: "2"
+
+services:
+  joal:
+    image: anthonyraymond/joal
+    container_name: joal
+    volumes:
+      - ${BASE_VOLUME}/joal/mnt:/data:rw
+    ports:
+      # - 127.0.0.1:${SERVER_PORT}:${SERVER_PORT}
+      - ${SERVER_PORT}:${SERVER_PORT}
+    command:
+      [
+        "--joal-conf=${JOAL_CONF}",
+        "--spring.main.web-environment=${SPRING_MAIN_WEB_ENVIRONMENT}",
+        "--server.port=${SERVER_PORT}",
+        "--joal.ui.path.prefix=${JOAL_UI_PATH_PREFIX}",
+        "--joal.ui.secret-token=${JOAL_UI_SECRET_TOKEN}",
+      ]
