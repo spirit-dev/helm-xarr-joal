@@ -6,7 +6,12 @@
 
 - [Welcome to joal](#welcome-to-joal)
   - [Table of content](#table-of-content)
+  - [Dependencies](#dependencies)
   - [Installation process](#installation-process)
+
+## Dependencies
+
+This chart rely on the community developed helm chart: [spirit-dev/helm-charts](https://github.com/spirit-dev/helm-charts)
 
 ## Installation process
 
