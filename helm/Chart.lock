@@ -1,0 +1,6 @@
+dependencies:
+- name: joal
+  repository: https://spirit-dev.github.io/helm-charts
+  version: 1.1.1
+digest: sha256:2ecd60076f93b4d51ebf2ec8658783d1474ec4cdd77ee8149fded73c5c07b317
+generated: "2024-08-06T10:12:27.826247132-04:00"
