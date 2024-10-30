@@ -4,10 +4,7 @@
 
 ## Table of content
 
-- [Welcome to joal](#welcome-to-joal)
-  - [Table of content](#table-of-content)
-  - [Dependencies](#dependencies)
-  - [Installation process](#installation-process)
+[[_TOC_]]
 
 ## Dependencies
 
