@@ -1,14 +1,14 @@
-# Welcome to joal
+# joal
 
+[![GitLab Sync](https://img.shields.io/badge/gitlab_sync-joal-blue?style=for-the-badge&logo=gitlab)](https://gitlab-internal.spirit-dev.net/github-mirror/helm-xarr-joal) <!-- markdownlint-disable MD041 -->
+[![GitHub Mirror](https://img.shields.io/badge/github_mirror-joal-blue?style=for-the-badge&logo=github)](https://github.com/spirit-dev/helm-xarr-joal)
 [![App Status](https://argocd-internal.spirit-dev.net/api/badge?name=joal-turingpi&revision=true&showAppName=true)](https://argocd-internal.spirit-dev.net/applications/joal-turingpi)
 
-## Table of content
+<!--TOC-->
 
-[[_TOC_]]
+- [Installation process](#installation-process)
 
-## Dependencies
-
-This chart rely on the community developed helm chart: [spirit-dev/helm-charts](https://github.com/spirit-dev/helm-charts)
+<!--TOC-->
 
 ## Installation process
 

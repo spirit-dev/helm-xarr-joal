@@ -58,7 +58,7 @@ ingress:
   hosts:
     - host: joal.example.org
   tls:
-    - secretName: joal-example-org
+    - secretName: joal-example-org # pragma: allowlist secret
       hosts:
         - joal.example.org
 
