@@ -1,6 +1,6 @@
 apiVersion: v2
 # renovate: datasource=github-releases depName=anthonyraymond/joal
-appVersion: "2.1.36"
+appVersion: 2.1.37
 description: JOAL is not designed to help or encourage you downloading illegal materials ! You must respect the law applicable in your country. I couldn't be held responsible for illegal activities performed by your usage of JOAL.
 name: joal
 # renovate: datasource=helm depName=joal repository=https://spirit-dev.github.io/helm-charts
